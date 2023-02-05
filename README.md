@@ -1,4 +1,4 @@
-**TOPIC: **DETERMINING THE FACTORS MICROSOFT,A NEW ENTRANT IN THE MOVIE PRODUCTION INDUSTRY, SHOULD CONSIDER TO ATTAIN SUCCESS USING EXPLORATORY DATA ANALYSIS**
+**TOPIC:** **DETERMINING THE FACTORS MICROSOFT,A NEW ENTRANT IN THE MOVIE PRODUCTION INDUSTRY, SHOULD CONSIDER TO ATTAIN SUCCESS USING EXPLORATORY DATA ANALYSIS**
 **PROJECT OVERVIEW**
 This repository contains an analysis of the movies for the Microsoft with an aim of providing recommendations on what movies to produce. 
 The repository contains a READme file, a jupyter notebook and a non technical presentation for the project.
